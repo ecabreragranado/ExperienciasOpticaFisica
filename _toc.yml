@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+  - file:  ExperienciaCasera1_Espectrometro_Espectros_Fuentes_de_luz/ExperienciaCasera1_Espectrometro
+  - file: ExperienciaCasera2_Polarizadores_Ley_de_Malus/Polarizadores_ley_de_Malus
+  - file: ExperienciaCasera3_MediosAnisotropos/ExperienciaCasera3_Medios_anisotropos
