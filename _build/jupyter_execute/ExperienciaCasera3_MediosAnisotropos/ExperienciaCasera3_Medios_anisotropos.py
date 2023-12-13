@@ -31,7 +31,7 @@
 # 
 # El siguiente vídeo muestra el procedimiento para analizar el efecto que producen ciertos materiales anisótropos sobre la luz linealmente polarizada que incide sobre ellos. Vamos a emplear las dos láminas polarizadoras y las colocaremos de forma que sus ejes de transmisión queden perpendiculares entre sí. Entre ambas láminas polarizadoras introduciremos una lámina de material birrefringente girando lentamente dicha lámina y observando su efecto.
 # 
-# <video src="../_static/videos/ExperienciaCasera3A_MediosAnisótropos.mp4"></video>
+# <video src="../_static/videos/ExperienciaCasera3A_MediosAnisotropos.mp4"></video>
 
 # ## Localización de las líneas neutras del material birrefringente
 # 
@@ -39,7 +39,7 @@
 # Para ello se gira lentamente el trozo de celo y se observa su efecto.
 # 
 # 
-# <video src="../_static/videos/ExperienciaCasera3B_LíneasNeutras.mp4"></video>
+# <video src="../_static/videos/ExperienciaCasera3B_LineasNeutras.mp4"></video>
 
 # ## Propuesta ampliación de conceptos: Dos trozos de celo cruzados
 # 
@@ -76,14 +76,10 @@
 # A continuación, pegamos sobre un portaobjetos distinto número de capas de celo \(1, 2, 3, 4,…\) y lo colocamos entre dos polarizadores con sus ejes de transmisión cruzados \(foto de la izquierda\) y paralelos \(foto de la derecha\).  As podremos disponer de una paleta de colores para realizar nuestra composición artística. Para visualizarlo fácilmente se puede emplear como fuente de luz la pantalla del ordenador tal como hemos mostrado en el vídeo anterior. Entre el portaobjetos que contiene la multicapa de celo y el ojo ponemos un polarizador cuyo eje de transmisión sea perpendicular a la dirección de polarización de la luz que sale de la pantalla del ordenador, es decir, donde no hay celo deberíamos ver oscuridad 
 # \(ver foto de la izquierda\).  Observamos que al girar el polarizador $90^o$ se ven los colores complementarios \(ver foto derecha\). 
 # 
-# <center>
 # <img src=fotocelos2.png width=700px></img>
-# </center>
 # 
 # Teniendo en cuenta lo anterior vamos a crear una composición artística de tema libre con capas de celo de distinto grosor colocado entre dos polarizadores cruzados \(como en el ejemplo de la foto de la izquierda\) y paralelos \(como en el ejemplo de la foto de la derecha\). 
 # 
-# <center>
 # <img src=fotocelos3.png width=700px></img>
-# </center>
 # 
 # 
