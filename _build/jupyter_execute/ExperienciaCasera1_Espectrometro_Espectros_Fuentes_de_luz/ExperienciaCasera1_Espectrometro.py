@@ -62,7 +62,7 @@
 # 
 # Se analiza espectralmente la absorción de un trozo de papel celofán transparente coloreado. Para ello la radiación de una fuente de luz blanca se hace pasar a través del trozo de celofán y luego a través del elemento dispersor \(red de difracción\). Este espectro será diferente al de la fuente de luz, siendo estos cambios provocados por el papel celofán \(ver la siguiente figura\). Comparando ambos espectros se obtiene el espectro de absorción del celofán que nos dice las radiaciones que han sido absorbidas. 
 # 
-# <img src=espectrocelofan.png width=500px></img>
+# ![espectrocelofan](espectrocelofan.png)
 # 
 # La transmitancia \(usualmente denominada $T$\) es la razón entre la intensidad transmitida por el celofán coloreado y la intensidad incidente \(intensidad de la fuente de luz\). Esta magnitud nos indica la proporción de luz que transmite el material para cada longitud de onda.
 # 
