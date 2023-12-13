@@ -32,6 +32,7 @@
 # El siguiente vídeo muestra el procedimiento para analizar el efecto que producen ciertos materiales anisótropos sobre la luz linealmente polarizada que incide sobre ellos. Vamos a emplear las dos láminas polarizadoras y las colocaremos de forma que sus ejes de transmisión queden perpendiculares entre sí. Entre ambas láminas polarizadoras introduciremos una lámina de material birrefringente girando lentamente dicha lámina y observando su efecto.
 # 
 # <video src="../_static/videos/ExperienciaCasera3A_MediosAnisotropos.mp4"></video>
+# 
 
 # ## Localización de las líneas neutras del material birrefringente
 # 
@@ -40,6 +41,7 @@
 # 
 # 
 # <video src="../_static/videos/ExperienciaCasera3B_LineasNeutras.mp4"></video>
+# 
 
 # ## Propuesta ampliación de conceptos: Dos trozos de celo cruzados
 # 
@@ -54,6 +56,7 @@
 # Empleamos el espectrómetro casero para analizar el efecto de una multicapa de celo \(lámina retardadora\) sobre las distintas longitudes de onda del visible. El siguiente vídeo muestra como realizar el experimento.
 # 
 # <video src="../_static/videos/ExperienciaCasera3D_DesfaseMulticapaCelo.mp4"></video>
+# 
 
 # Podemos usar un valor estimado para la birrefringencia del celo \(diferencia entre sus dos índices de refracción\) de 0,007.
 # El espesor de la multicapa de celo depende del número de capas y del grosor del celo que puede depender del tipo de celo. El valor del grosor de cada capa de celo puede
@@ -72,6 +75,7 @@
 # 
 # 
 # <video src="../_static/videos/ExperienciaCasera3E_Desfase_1_lamina_celo.mp4"></video>
+# 
 
 # A continuación, pegamos sobre un portaobjetos distinto número de capas de celo \(1, 2, 3, 4,…\) y lo colocamos entre dos polarizadores con sus ejes de transmisión cruzados \(foto de la izquierda\) y paralelos \(foto de la derecha\).  As podremos disponer de una paleta de colores para realizar nuestra composición artística. Para visualizarlo fácilmente se puede emplear como fuente de luz la pantalla del ordenador tal como hemos mostrado en el vídeo anterior. Entre el portaobjetos que contiene la multicapa de celo y el ojo ponemos un polarizador cuyo eje de transmisión sea perpendicular a la dirección de polarización de la luz que sale de la pantalla del ordenador, es decir, donde no hay celo deberíamos ver oscuridad 
 # \(ver foto de la izquierda\).  Observamos que al girar el polarizador $90^o$ se ven los colores complementarios \(ver foto derecha\). 
