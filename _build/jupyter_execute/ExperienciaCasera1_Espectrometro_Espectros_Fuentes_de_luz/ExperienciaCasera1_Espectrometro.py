@@ -54,7 +54,7 @@
 # 
 # Emplearemos el espectrómetro casero para analizar la composición espectral de distintas fuentes de luz, es decir, qué colores o longitudes de onda contiene la fuente. En el siguiente vídeo se muestran varios ejemplos.
 # 
-# <video src="../_static/videos/ExperienciaCasera1_Espectrometro_2.mp4"></video>
+# <video src="../_static/videos/ExperienciaCasera1_Espectrometro_2.mp4" height=300px></video>
 # 
 
 # ## Espectro de absorción del papel celofán
