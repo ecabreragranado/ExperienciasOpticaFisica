@@ -60,7 +60,7 @@
 # - Una aplicación para el móvil que nos permita acceder a los valores que mide el sensor de luz. Hay muchas aplicaciones y cualquiera es válida. Para dispositivos Android, algunas de estas aplicaciones podrían ser [Phyphox](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox) o [Light Meter Pro](https://play.google.com/store/apps/details?id=com.doggoapps.luxlight) \(Nota: Estos enlaces se proporcionan únicamente como ejemplos de aplicaciones para realizar la experiencia casera. Los autores de este documento no tienen ningún tipo de relación con los creadores de estas aplicaciones\).
 # 
 # 
-# <video src="../_static/videos/ExperienciaCasera2_LeydeMalus_1.mp4"></video>
+# <video src="../_static/videos/ExperienciaCasera2_LeydeMalus_1.mp4" width=400px controls></video>
 # 
 
 # Una vez medidos los valores de la irradiancia en función del ángulo formado por los ejes de transmisión de los dos polarizadores, podemos realizar una ajuste lineal de los datos y así comprobar la ley de Malus. Para ello debemos representar las dos magnitudes que son proporcionales según la ley de Malus, es decir, la irradiancia y el coseno al cuadrado del ángulo. El ajuste lineal se puede realizar con cualquier programa de cálculo o usando la aplicación desarrollada para Android que se puede descargar del enlace  [https://play.google.com/store/apps/details?id=appinventor.ai\_oscar\_gomezcalderon.AjusteLineal\_ShaDB&hl=es&gl=US&pli=1](https://play.google.com/store/apps/details?id=appinventor.ai_oscar_gomezcalderon.AjusteLineal_ShaDB&hl=es&gl=US&pli=1)

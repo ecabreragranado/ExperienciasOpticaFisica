@@ -43,7 +43,7 @@
 # 
 # Las instrucciones del montaje aparecen en la página web anterior. A continuación mostramos un video resumen.
 # 
-# <video src="../_static/videos/ExperienciaCasera1_Espectrometro_1.mp4"></video>
+# <video src="../_static/videos/ExperienciaCasera1_Espectrometro_1.mp4" width=400px controls></video>
 # 
 
 # ## Espectros de emisión de fuentes de luz
@@ -54,7 +54,7 @@
 # 
 # Emplearemos el espectrómetro casero para analizar la composición espectral de distintas fuentes de luz, es decir, qué colores o longitudes de onda contiene la fuente. En el siguiente vídeo se muestran varios ejemplos.
 # 
-# <video src="../_static/videos/ExperienciaCasera1_Espectrometro_2.mp4" height=300px></video>
+# <video src="../_static/videos/ExperienciaCasera1_Espectrometro_2.mp4" height=400px controls></video>
 # 
 
 # ## Espectro de absorción del papel celofán
@@ -69,5 +69,5 @@
 # 
 # En el siguiente vídeo se muestra cómo medir el espectro de transmisión del papel celofán transparente coloreado con el espectrómetro casero.
 # 
-# <video src="../_static/videos/ExperienciaCasera1_Espectrometro_3.mp4"></video>
+# <video src="../_static/videos/ExperienciaCasera1_Espectrometro_3.mp4" width=400px controls></video>
 # 

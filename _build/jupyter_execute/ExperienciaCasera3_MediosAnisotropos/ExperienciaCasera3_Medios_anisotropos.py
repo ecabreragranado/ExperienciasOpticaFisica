@@ -40,7 +40,7 @@
 # Para ello se gira lentamente el trozo de celo y se observa su efecto.
 # 
 # 
-# <video src="../_static/videos/ExperienciaCasera3B_LineasNeutras.mp4"></video>
+# <video src="../_static/videos/ExperienciaCasera3B_LineasNeutras.mp4" width=400px controls></video>
 # 
 
 # ## Propuesta ampliación de conceptos: Dos trozos de celo cruzados
@@ -55,7 +55,7 @@
 # 
 # Empleamos el espectrómetro casero para analizar el efecto de una multicapa de celo \(lámina retardadora\) sobre las distintas longitudes de onda del visible. El siguiente vídeo muestra como realizar el experimento.
 # 
-# <video src="../_static/videos/ExperienciaCasera3D_DesfaseMulticapaCelo.mp4"></video>
+# <video src="../_static/videos/ExperienciaCasera3D_DesfaseMulticapaCelo.mp4" width=400px controls></video>
 # 
 
 # Podemos usar un valor estimado para la birrefringencia del celo \(diferencia entre sus dos índices de refracción\) de 0,007.
@@ -74,7 +74,7 @@
 # en sentido antihorario hasta que su eje de transmisión sea perpendicular a la dirección de polarización de la luz que sale de la pantalla del ordenador, vemos que donde hay celo el color transmitido es el amarillo \(complementario del color azul\) y donde no hay celo vemos oscuridad. 
 # 
 # 
-# <video src="../_static/videos/ExperienciaCasera3E_Desfase_1_lamina_celo.mp4"></video>
+# <video src="../_static/videos/ExperienciaCasera3E_Desfase_1_lamina_celo.mp4" width=400px controls></video>
 # 
 
 # A continuación, pegamos sobre un portaobjetos distinto número de capas de celo \(1, 2, 3, 4,…\) y lo colocamos entre dos polarizadores con sus ejes de transmisión cruzados \(foto de la izquierda\) y paralelos \(foto de la derecha\).  As podremos disponer de una paleta de colores para realizar nuestra composición artística. Para visualizarlo fácilmente se puede emplear como fuente de luz la pantalla del ordenador tal como hemos mostrado en el vídeo anterior. Entre el portaobjetos que contiene la multicapa de celo y el ojo ponemos un polarizador cuyo eje de transmisión sea perpendicular a la dirección de polarización de la luz que sale de la pantalla del ordenador, es decir, donde no hay celo deberíamos ver oscuridad 
