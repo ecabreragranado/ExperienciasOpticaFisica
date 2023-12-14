@@ -42,6 +42,8 @@
     <script src="../_static/copybutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script src="../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
     <script>
         const thebe_selector = ".thebe"
@@ -300,7 +302,7 @@
 <p>Las ondas electromagnéticas planas son ondas vectoriales transversales: el campo eléctrico
 de la onda oscila contenido en un plano perpendicular a la dirección de propagación de la misma.
 Sin embargo, la dirección del campo en este plano puede mantenerse fija o cambiar. En general,
-las fuentes de luz producen luz despolarizada. Ello significa que la dirección del campo eléctrico  $\vec{E_0}$ cambia al azar de un instante a otro, tal como se indica en la figura 1(a), donde se han dibujado
+las fuentes de luz producen luz despolarizada. Ello significa que la dirección del campo eléctrico  <span class="math notranslate nohighlight">\(\vec{E_0}\)</span> cambia al azar de un instante a otro, tal como se indica en la figura 1(a), donde se han dibujado
 algunos vectores orientados al azar en diferentes instantes de tiempo. La luz proveniente del sol, o
 la que producen las bombillas de incandescencia o los fluorescentes, está despolarizada.</p>
 <img alt="../_images/paste-0.18964571241733863" src="../_images/paste-0.18964571241733863" />
@@ -312,19 +314,20 @@ campo eléctrico de la onda que vibra paralelamente a una dirección privilegi
 se denomina eje de transmisión del polarizador, y absorbe el campo que vibra en la dirección
 perpendicular a dicho eje. Por tanto a la <strong>salida del polarizador</strong> tendremos luz <strong>linealmente</strong>
 <strong>polarizada en la dirección del eje de transmisión del polarizador</strong>.
-En la figura 1(b) se muestra un ejemplo, supongamos que el campo eléctrico $\vec{E_0}$
-del haz incidente forma un ángulo $\theta$ con la vertical y que el material polarizador tiene su eje de transmisión en la
+En la figura 1(b) se muestra un ejemplo, supongamos que el campo eléctrico <span class="math notranslate nohighlight">\(\vec{E_0}\)</span>
+del haz incidente forma un ángulo <span class="math notranslate nohighlight">\(\theta\)</span> con la vertical y que el material polarizador tiene su eje de transmisión en la
 dirección vertical. El material polarizador solo dejará pasar la proyección del campo incidente en
-la dirección del eje del polarizador, esto es, $E_0 \cos(\theta)$. Y por tanto la irradiancia a la salida del
+la dirección del eje del polarizador, esto es, <span class="math notranslate nohighlight">\(E_0 \cos(\theta)\)</span>. Y por tanto la irradiancia a la salida del
 polarizador vendrá dada por:</p>
-<p>$$I = I_0 \cos^2(\theta)$$</p>
-<p>donde $I_0$ es la irradiancia del haz que incide sobre el material polarizador. Esta expresión es
+<div class="math notranslate nohighlight">
+\[I = I_0 \cos^2(\theta)\]</div>
+<p>donde <span class="math notranslate nohighlight">\(I_0\)</span> es la irradiancia del haz que incide sobre el material polarizador. Esta expresión es
 conocida como la <strong>ley de Malus</strong>, que proporciona el grado de atenuación del haz que emerge de un
 polarizador.</p>
-<p>Si aplicamos esta idea al caso de un haz incidente despolarizado, el vector eléctrico $\vec{E_0}$
-formará un ángulo $\theta(t)$ con el eje que irá cambiando al azar. Por lo tanto, en la irradiancia del haz transmitido
+<p>Si aplicamos esta idea al caso de un haz incidente despolarizado, el vector eléctrico <span class="math notranslate nohighlight">\(\vec{E_0}\)</span>
+formará un ángulo <span class="math notranslate nohighlight">\(\theta(t)\)</span> con el eje que irá cambiando al azar. Por lo tanto, en la irradiancia del haz transmitido
 tendremos que promediar todos los posibles valores que tomará el coseno al cuadrado del ángulo.
-Dicho promedio es 1/2, es decir, la irradiancia transmitida resulta ser $I = I_0 /2$.</p>
+Dicho promedio es 1/2, es decir, la irradiancia transmitida resulta ser <span class="math notranslate nohighlight">\(I = I_0 /2\)</span>.</p>
 <p>Teniendo en cuenta lo anterior, podemos establecer un procedimiento para atenuar un haz de
 luz despolarizada empleando sucesivamente dos polarizadores: el primero de ellos permite atenuar
 la irradiancia en un factor 1/2 y si colocamos un segundo polarizador con su eje formando un cierto
