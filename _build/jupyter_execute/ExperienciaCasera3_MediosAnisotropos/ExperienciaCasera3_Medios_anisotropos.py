@@ -31,7 +31,7 @@
 # 
 # El siguiente vídeo muestra el procedimiento para analizar el efecto que producen ciertos materiales anisótropos sobre la luz linealmente polarizada que incide sobre ellos. Vamos a emplear las dos láminas polarizadoras y las colocaremos de forma que sus ejes de transmisión queden perpendiculares entre sí. Entre ambas láminas polarizadoras introduciremos una lámina de material birrefringente girando lentamente dicha lámina y observando su efecto.
 # 
-# <video src="../_static/videos/ExperienciaCasera3A_MediosAnisotropos.mp4"></video>
+# <video src="../_static/videos/ExperienciaCasera3A_MediosAnisotropos.mp4" width=400px controls></video>
 # 
 
 # ## Localización de las líneas neutras del material birrefringente
