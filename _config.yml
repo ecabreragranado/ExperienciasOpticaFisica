@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Experiencias de Óptica física para realizar en casa
-author: Sonia Melle, Oscar G. Calderón, E. Cabrera-Granado, Alejandro Casillas
+author: Sonia Melle, Oscar G. Calderón, F. Encinas Sanz, Alejandro Casillas-Rubio y E. Cabrera-Granado
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
